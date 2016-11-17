@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'fizz_buzz_gem/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "fizz_buzz_gem"
+  spec.name          = 'fizz_buzz_gem'
   spec.version       = FizzBuzzGem::VERSION
   spec.authors       = ['QA Team']
 
